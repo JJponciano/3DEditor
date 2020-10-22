@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>info.ponciano.lab</groupId>
-    <artifactId>geotimewfs</artifactId>
+    <artifactId>editor3d</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>geotimewfs</name>
+    <name>editor3d</name>
     <description>Source of Geotimewfs project</description>
     <repositories>
 
@@ -242,11 +242,6 @@
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-web</artifactId>
             <type>jar</type>
-        </dependency>
-        <dependency>
-           <groupId>info.ponciano.lab</groupId>
-            <artifactId>pisemantic</artifactId>
-            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>org.springdoc</groupId>
